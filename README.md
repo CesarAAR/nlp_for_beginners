@@ -81,8 +81,11 @@ Permite comprender los conceptos básicos de procesamiento de texto y sirve como
 
 ## 📂 Estructura sugerida del repositorio
 📦 NLP_TESTING
+
 ┣ 📜 README.md
+
 ┣ 📓 nlp_introduction.ipynb
+
 ┗ df_total.csv (ejemplo)
 
 ---
@@ -94,4 +97,4 @@ Se realizaran más publicaciones tocando temas desde intermedios hasta avanzados
 
 ✍️ **Autor:** *César Álvarez*  
 📅 **Año:** 2025  
-📘 **Fuente de aprendizaje:** Apuntes personales sobre [Curso Completo de Procesamiento de Lenguaje Natural (NLP) con Python] (https://youtu.be/9x1QtYNLJRY?si=lSJt37JcyXwNNBKk) del canal [Código Espinoza - IA y Machine Learning] (https://www.youtube.com/@codigoespinozaIA)
+📘 **Fuente de aprendizaje:** Apuntes personales sobre [Curso Completo de Procesamiento de Lenguaje Natural (NLP) con Python](https://youtu.be/9x1QtYNLJRY?si=lSJt37JcyXwNNBKk) del canal [Código Espinoza - IA y Machine Learning](https://www.youtube.com/@codigoespinozaIA)
