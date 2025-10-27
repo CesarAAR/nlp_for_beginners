@@ -102,12 +102,11 @@ Permite comprender los conceptos básicos de procesamiento de texto y sirve como
 ┣ 📜 README.md
 
 ┣ 📓 nlp_introduction.ipynb
-<<<<<<< HEAD
 
-=======
 ┣ 📓 nlp_introduction_part2.ipynb
+
 ┣ texto_text.txt
->>>>>>> 1fa53bc (Nlp part 2)
+
 ┗ df_total.csv (ejemplo)
 
 ---
