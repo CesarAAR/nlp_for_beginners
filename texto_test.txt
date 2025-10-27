@@ -1,0 +1,52 @@
+Alan Turing
+(Alan Mathison Turing; Londres, 1912 - Wilmslow, Reino Unido, 1954) Matemático británico. Pasó sus primeros trece años en la India, donde su padre trabajaba en la Administración colonial. De regreso al Reino Unido, estudió en el King's College y, tras su graduación, se trasladó a la Universidad estadounidense de Princeton, donde trabajó con el lógico Alonzo Church.
+En 1937 publicó un célebre artículo en el que definió una máquina calculadora de capacidad infinita (máquina de Turing) que operaba basándose en una serie de instrucciones lógicas, sentando así las bases del concepto moderno de algoritmo. Turing describió en términos matemáticos precisos cómo un sistema automático con reglas extremadamente simples podía efectuar toda clase de operaciones matemáticas expresadas en un lenguaje formal determinado. La máquina de Turing era tanto un ejemplo de su teoría de computación como una prueba de que un cierto tipo de máquina computadora podía ser construida.
+
+La Segunda Guerra Mundial ofreció un insospechado marco de aplicación práctica de sus teorías, al surgir la necesidad de descifrar los mensajes codificados que la Marina alemana empleaba para enviar instrucciones a los submarinos que hostigaban los convoyes de ayuda material enviados desde Estados Unidos; Turing, al mando de una división de la Inteligencia británica, diseñó tanto los procesos como las máquinas que, capaces de efectuar cálculos combinatorios mucho más rápidamente que cualquier ser humano, fueron decisivos en la ruptura final del código.
+
+Alan Turing definió además un método teórico para decidir si una máquina era capaz de pensar como un hombre (test de Turing) y realizó contribuciones a otras ramas de la matemática aplicada, como la aplicación de métodos analíticos y mecánicos al problema biológico de la morfogénesis. En el ámbito personal, su condición de homosexual fue motivo constante de fuertes presiones sociales y familiares, hasta el punto de especularse si su muerte por intoxicación fue accidental o se debió a un intento de suicidio.
+
+¿Qué es el Test de Turing en IA?
+El Test de Turing es un método de investigación en inteligencia artificial (IA) para determinar si un ordenador es capaz o no de pensar como un ser humano. La prueba lleva el nombre de Alan Turing, el fundador de la prueba de Turing y un informático, criptoanalista, matemático y biólogo teórico inglés.
+
+Turing propuso que se puede decir que una computadora posee inteligencia artificial si puede imitar las respuestas humanas en condiciones específicas. La prueba de Turing original requiere tres terminales, cada uno de los cuales está físicamente separado de los otros dos. Un terminal es operado por una computadora, mientras que los otros dos son operados por humanos.
+
+Durante la prueba, uno de los humanos funciona como interrogador, mientras que el segundo humano y la computadora funcionan como encuestados. El interrogador interroga a los encuestados dentro de un área temática específica, utilizando un formato y contexto específicos. Después de un período de tiempo preestablecido o un número de preguntas, se le pide al interrogador que decida qué encuestado era humano y cuál era una computadora.
+
+La prueba se repite muchas veces. Si el interrogador toma la determinación correcta en la mitad de las ejecuciones de prueba o menos, se considera que la computadora tiene inteligencia artificial porque el interrogador la considera "tan humana" como el encuestado humano.
+
+Historia de la prueba de Turing
+La prueba lleva el nombre de Alan Turing, quien fue pionero en el aprendizaje automático durante las décadas de 1940 y 1950. Turing introdujo la prueba en su artículo de 1950 llamado "Computing Machinery and Intelligence" mientras estaba en la Universidad de Manchester.
+
+En su artículo, Turing propuso un giro en lo que se llama "El juego de la imitación". El juego de imitación no implica el uso de IA, sino tres participantes humanos en tres habitaciones separadas. Cada sala está conectada a través de una pantalla y un teclado, uno con un hombre, el otro con una mujer y el otro con un juez masculino o femenino. La mujer trata de convencer al juez de que ella es el hombre, y el juez trata de difundir cuál es cuál.
+
+Turing cambia el concepto de este juego para incluir una IA, un humano y un interrogador humano. El trabajo del interrogador es decidir cuál es la IA y cuál es el humano. Desde la formación de la prueba, muchas IA han podido pasar; uno de los primeros es un programa creado por Joseph Weizenbaum llamado ELIZA.
+
+Limitaciones de la prueba de Turing
+La prueba de Turing ha sido criticada a lo largo de los años, en particular porque históricamente, la naturaleza del interrogatorio tenía que ser limitada para que una computadora exhibiera una inteligencia similar a la humana. Durante muchos años, una computadora solo podía obtener una puntuación alta si el interrogador formulaba las consultas, por lo que tenían respuestas de "Sí" o "No" o pertenecían a un campo estrecho de conocimiento. Cuando las preguntas eran abiertas y requerían respuestas conversacionales, era menos probable que el programa de computadora pudiera engañar con éxito al interrogador.
+
+Además, un programa como ELIZA podría pasar la prueba de Turing manipulando símbolos que no comprende completamente. John Searle argumentó que esto no determina una inteligencia comparable a la de los humanos.
+
+Para muchos investigadores, la cuestión de si una computadora puede o no pasar una prueba de Turing se ha vuelto irrelevante. En lugar de centrarse en cómo convencer a alguien de que está conversando con un humano y no con un programa informático, el enfoque real debería estar en cómo hacer que una interacción humano-máquina sea más intuitiva y eficiente. Por ejemplo, mediante el uso de una interfaz conversacional.
+
+Variaciones y alternativas al Test de Turing
+Ha habido una serie de variaciones en la prueba de Turing para hacerla más relevante. Tales ejemplos incluyen:
+
+Prueba de Turing inversa: donde un humano intenta convencer a una computadora de que no es una computadora. Un ejemplo de esto es un CAPTCHA.
+Prueba de Turing total: donde el interrogador también puede probar las habilidades perceptivas, así como la capacidad de manipular objetos.
+Prueba de señal inteligente mínima: donde solo se dan preguntas de verdadero / falso y sí / no.
+Más tarde se desarrollaron alternativas a las pruebas de Turing porque muchos consideran que la prueba de Turing es defectuosa. Estas alternativas incluyen pruebas como:
+
+La prueba de Marcus, en la que un programa que puede "ver" un programa de televisión se prueba haciéndole preguntas significativas sobre el contenido del programa.
+La prueba Lovelace 2.0, que es una prueba hecha para detectar IA mediante el examen de su capacidad para crear arte.
+Winograd Schema Challenge: que es una prueba que hace preguntas de opción múltiple en un formato específico.
+¿Cómo se usa la prueba de Turing en la actualidad?
+Aunque las variaciones de la prueba de Turing suelen ser más aplicables a nuestra comprensión actual de la IA, el formato original de la prueba todavía se usa hasta el día de hoy. Por ejemplo, el Premio Loebner se otorga anualmente desde 1990 al programa informático más parecido al humano según lo votado por un panel de jueces. La competencia sigue las reglas estándar de la prueba de Turing. Los críticos de la relevancia del premio a menudo lo minimizan como más publicidad que realmente probar si las máquinas pueden pensar.
+
+En una competencia organizada por la Universidad de Reading para conmemorar el 60 aniversario de la muerte de Turing en 2014, un chatbot llamado Eugene Goostman que simula a un niño de 13 años pasó la prueba de Turing, a los ojos de algunos, cuando engañó al 33% de los jueces. Este llamado primer paso ha sido recibido con muchas críticas por parte de quienes argumentan que no hubo suficientes jueces, que otras máquinas se han desempeñado mejor en la prueba en el pasado y que la prueba no es válida por solo durar cinco minutos.
+
+En 2018, Google Duplex concertó con éxito una cita con un peluquero por teléfono frente a una multitud de 7.000 personas. La recepcionista desconocía por completo que no estaban conversando con un humano real. Algunos consideran que esto es un pase de prueba de Turing moderno, a pesar de no depender del verdadero formato de la prueba tal como lo diseñó Alan Turing.
+
+Algunos creen que GPT-3, un modelo de procesamiento de lenguaje natural creado por OpenAI, tiene la mejor oportunidad de superar la prueba en su forma real de cualquier tecnología que tengamos hoy. Pero, incluso con sus capacidades avanzadas de generación de texto, muchos han criticado a la máquina porque puede ser engañada para responder preguntas sin sentido y, por lo tanto, tendría dificultades en las condiciones de la prueba de Turing.
+
+A pesar de mucho debate sobre la relevancia de la prueba de Turing en la actualidad y la validez de las competencias que se basan en ella, la prueba sigue siendo un punto de partida filosófico para discutir e investigar la IA. A medida que continuamos avanzando en IA y comprendemos y mapeamos mejor cómo funciona el cerebro humano, la prueba de Turing sigue siendo fundamental para definir la inteligencia y es una línea de base para el debate sobre lo que debemos esperar de las tecnologías para que se consideren máquinas pensantes.

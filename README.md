@@ -58,12 +58,29 @@ El **TF-IDF (Term Frequency – Inverse Document Frequency)** es una técnica es
 
 ---
 
+### 6️⃣ TF-IDF Práctico y Word Embeddings Neuronales  
+Esta nueva sección amplía las notas anteriores con:
+
+#### 🧩 Parte Práctica de TF-IDF  
+Aplicación práctica del método TF-IDF con un conjunto de textos para comparar su rendimiento frente a la representación basada en frecuencia de palabras.  
+Se analizan los resultados y se visualizan las puntuaciones TF-IDF más relevantes.
+
+#### 🧠 Introducción a Word Embeddings Neuronales  
+Introducción teórica a los **word embeddings neuronales**, un enfoque más avanzado que permite capturar relaciones semánticas entre palabras mediante representaciones vectoriales densas.  
+Se explican conceptos como:
+- Espacios vectoriales semánticos  
+- Analogías de palabras (por ejemplo, “Rey - Hombre + Mujer = Reina”)  
+- Modelos populares como **Word2Vec** y **GloVe**
+
+---
 ## 🧩 Tecnologías y librerías utilizadas
 - **Python 3**
 - **NLTK**
 - **spaCy**
 - **scikit-learn**
 - **NumPy / Pandas**
+- **Word2Vec**
+- **pymupdf**
 
 ---
 
@@ -85,7 +102,12 @@ Permite comprender los conceptos básicos de procesamiento de texto y sirve como
 ┣ 📜 README.md
 
 ┣ 📓 nlp_introduction.ipynb
+<<<<<<< HEAD
 
+=======
+┣ 📓 nlp_introduction_part2.ipynb
+┣ texto_text.txt
+>>>>>>> 1fa53bc (Nlp part 2)
 ┗ df_total.csv (ejemplo)
 
 ---
